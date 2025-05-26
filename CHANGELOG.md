@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.1](https://github.com/snyssen/ansible-role-oh-my-zsh-p10k/compare/v1.0.0...v1.0.1) (2025-05-26)
+
+
+### Bug Fixes
+
+* update meta file ([ff36c6c](https://github.com/snyssen/ansible-role-oh-my-zsh-p10k/commit/ff36c6cd6e7db0cd036deadc25c1dcc07e9c146a))
+
 ## 1.0.0 (2025-05-26)
 
 
