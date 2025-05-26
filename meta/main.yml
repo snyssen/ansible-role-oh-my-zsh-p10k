@@ -1,8 +1,7 @@
 ---
-
 galaxy_info:
   role_name: oh-my-zsh-p10k
-  author: tomereli
+  author: snyssen
   description: Set up oh-my-zsh with p10k theme on Linux.
   company: "Intel Corp."
   license: "license (BSD, MIT)"
@@ -24,7 +23,6 @@ galaxy_info:
         - xenial
         - bionic
         - focal
-  dependencies: []
   galaxy_tags:
     - development
     - ohmyzsh
